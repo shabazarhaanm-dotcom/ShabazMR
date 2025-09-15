@@ -28,7 +28,8 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 6. Key Sales Channel - "Retailer": The "Retailer" channel emerges as the primary contributor, accounting for 73.22% of gross sales, thus serving as the key driver.
 
 ## Repository Contents
-SQL Queries: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf](https://github.com/user-attachments/files/22336903/SQL_QUERIES.pdf)
+SQL Queries: Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf](https://github.com/user-attachments/files/22336903/SQL_QUERIES.pdf) 
+
 PPT: [SQL.PROJECT.pptx](https://github.com/user-attachments/files/22336902/SQL.PROJECT.pptx)
 
 ### Project
